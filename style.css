@@ -1,0 +1,43 @@
+body{
+  background-color: black;
+}
+
+.welcome{
+text-align: center;
+padding: 30px;
+font-family: 'Bree Serif', serif;
+font-size: 50px;
+background-color: aliceblue;
+}
+
+p{
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.services{
+  text-align: center;
+  padding: 30px;
+  font-family: 'Bree Serif', serif;
+  font-size: 50px;
+  color:white;
+ 
+  }
+  .card{
+    text-align: center;
+  }
+  .card-text{
+    color: black;
+  }
+   
+  .food-items{
+    text-align: center;
+    padding: 30px;
+    font-family: 'Bree Serif', serif;
+    font-size: 50px;
+    background-color: aliceblue;
+    }
+
+    .card-text-menu{
+      color: white;
+    }
